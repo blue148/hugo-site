@@ -1,0 +1,22 @@
+---
+path: "/programs/l/"
+scramble: "1D97D3FC"
+date: "2018-08-20"
+title: "Enroll In Criminal Corrections Programs"
+content: ""
+components: "{'ads':0,'lrform':1}"
+action: ""
+areaOfStudy: "41826B55"
+concentration: "267EA6BE"
+collegeId: ""
+headerText: ""
+introText: ""
+buttonText: ""
+submitButtonText: ""
+theme: "ce-sem-programs"
+launchInLightbox: "FALSE"
+template: ""
+aosName: "criminaljustice"
+conName: ""
+---
+
